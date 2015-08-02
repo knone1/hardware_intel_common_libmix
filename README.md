@@ -1,1 +1,1 @@
-# hardware_intel_common_libmixa
+# hardware_intel_common_libmix
